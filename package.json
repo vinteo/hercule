@@ -88,7 +88,7 @@
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
-    "@babel/register": "^7.0.0",
+    "@babel/register": "^7.4.0",
     "ava": "^1.0.1",
     "bats": "^1.0.0",
     "benchmark": "^2.1.3",
